@@ -1,7 +1,7 @@
 ---?image=/img/code.jpg&opacity=40
 
 @snap[north-west]
-@size[2.5em](VBA)
+  @size[2.5em](VBA)
 @snapend
 
 @snap[south-east]
@@ -9,10 +9,10 @@
 @snapend
 
 
----
+---?image=/img/code.jpg&opacity=40
 
 @snap[north-west]
-@size[2.5em](Hvad er VBA?)
+  @size[2.5em](Hvad er VBA?)
 @snapend
 
 
