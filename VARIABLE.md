@@ -1,7 +1,6 @@
 ---?image=/img/code.jpg&opacity=40
-@snap[north-west]
-	@size[2.5em](Variable)
-@snapend
+
+## Variable
 
 ---?image=/img/writhing_code.jpg&position=left&size=40%&opacity=40
 
