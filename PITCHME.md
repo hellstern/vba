@@ -9,7 +9,7 @@
 @snapend
 
 
----?image=/img/code.jpg&opacity=40
+---
 
 @snap[north-west]
 @size[2.5em](Hvad er VBA?)
