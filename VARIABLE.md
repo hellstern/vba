@@ -4,7 +4,7 @@
 @snapend
 
 
-+++?image=/img/writhing_code.jpg&position=left&size=40%&opacity=40
+
 
 @snap[west span-40 text-orange text-bold]
 	Variable
