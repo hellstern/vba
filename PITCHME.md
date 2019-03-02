@@ -15,6 +15,12 @@
   @size[2.5em](Hvad er VBA?)
 @snapend
 
+--- 
+@snap[north-west]
+  @size[2.5em](Grundlæggende)
+@snapend
+
+
 
 ---?include=VARIABLE.md
 
