@@ -27,7 +27,7 @@
 - **Values** - Den værdi du angiver
 @snapend
 
----?code=code/grund&lang=vb: Objects // Methods
+code=code/grund&lang=vb
 
 ---?include=VARIABLE.md
 
