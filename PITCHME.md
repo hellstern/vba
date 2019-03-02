@@ -15,17 +15,7 @@
   @size[2.5em](Hvad er VBA?)
 @snapend
 
---- 
-@snap[north-west]
-  @size[2.5em](Grundlæggende)
-@snapend
-
-- **Objects** - Mapper, Ark, Celler
-- **Methods** - Den handling du vil udføre
-- **Properties** - Egenskaber
-- **Values** - Den værdi du angiver
-
----?code=code/grund&lang=vb
+---?include=OBJECT.md
 
 ---?include=VARIABLE.md
 
