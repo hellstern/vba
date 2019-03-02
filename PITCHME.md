@@ -27,7 +27,9 @@
 - **Values** - Den værdi du angiver
 @snapend
 
-code=code/grund&lang=vb
+---code=code/grund&lang=vb
+@[1-4](Init Spark cluster data source)
+@[5-10](Build RDD[AWSTask] from source)
 
 ---?include=VARIABLE.md
 
