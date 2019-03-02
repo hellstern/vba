@@ -13,7 +13,7 @@
   Tekst
 @snapend
 
-@snap[east sidebar]
+@snap[east]
   ![Object](img/Object_Hierarchy.jpg)
 @snapend
 
