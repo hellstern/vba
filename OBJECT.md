@@ -14,7 +14,9 @@
 @snapend
 
 @snap[east sidebar]
-  ![OBJECT](img/Object_Hierarchy.png)
+  ![Object](img/Object_Hierarchy.png)
 @snapend
 
 ---?code=code/grund&lang=vb
+@[1-8](Struktur)
+@[9-16](Kode)
