@@ -20,7 +20,12 @@
   @size[2.5em](Grundlæggende)
 @snapend
 
+**Objects** - Mapper, Ark, Celler
+**Methods** - Den handling du vil udføre
+**Properties** - Egenskaber
+**Values** - Den værdi du angiver
 
+---?code=src/server.go&lang=vb
 
 ---?include=VARIABLE.md
 
