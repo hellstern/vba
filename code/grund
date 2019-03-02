@@ -1,0 +1,16 @@
+Option Explicit
+
+Sub MakroNavn()
+
+  Object.method
+  Object.property = value
+
+End Sub
+
+Sub MinMakro()
+
+  Range("A1:C1").Clear
+  Range("A1:C1").Value = 10
+  Range("A1:C1").Interior.Color = vbRed
+  
+End Sub
