@@ -13,8 +13,10 @@
   Tekst
 @snapend
 
+@snap[east sidebar]
+  ![Object](img/Object_Hierarchy.jpg)
+@snapend
 
-![Object](img/Object_Hierarchy.jpg)
 
 
 ---?code=code/grund&lang=vb
