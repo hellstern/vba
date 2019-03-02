@@ -25,7 +25,7 @@
 - **Properties** - Egenskaber
 - **Values** - Den værdi du angiver
 
----?code=code/grund&lang=vba
+---?code=code/grund&lang=vb Objects // Methods
 
 ---?include=VARIABLE.md
 
