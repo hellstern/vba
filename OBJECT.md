@@ -14,7 +14,7 @@
 @snapend
 
 @snap[east sidebar]
-  ![Object](img/Object_Hierarchy.png)
+  ![Object](img/Object_Hierarchy.jpg)
 @snapend
 
 ---?code=code/grund&lang=vb
