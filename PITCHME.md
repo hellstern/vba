@@ -20,10 +20,12 @@
   @size[2.5em](Grundlæggende)
 @snapend
 
+@snap[west]
 - **Objects** - Mapper, Ark, Celler
 - **Methods** - Den handling du vil udføre
 - **Properties** - Egenskaber
 - **Values** - Den værdi du angiver
+@snapend
 
 ---?code=code/grund&lang=vb: Objects // Methods
 
