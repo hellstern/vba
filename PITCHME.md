@@ -25,7 +25,7 @@
 **Properties** - Egenskaber
 **Values** - Den værdi du angiver
 
----?code=src/server.go&lang=vb
+---?code=code/grund&lang=vb
 
 ---?include=VARIABLE.md
 
