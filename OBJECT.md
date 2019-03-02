@@ -7,5 +7,5 @@
 @snapend
 
 @snap[east sidebar]
-  ![OBJECT](img/)
+  ![OBJECT](img/Object_Hierarchy.png)
 @snapend
