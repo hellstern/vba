@@ -1,3 +1,5 @@
+@title[Objects]
+
 @snap[north-west]
   @size[2.5em](Objects)
 @snapend
@@ -8,17 +10,17 @@
 - **Values** - Den værdi du angiver
 
 ---
+@title[Objects Syntax]
 
 @snap[west sidebar]
-  Tekst
+  Object Hierarchy
 @snapend
 
-@snap[east]
-  ![Object](img/Object_Hierarchy.jpg)
-@snapend
 
+![Object](img/Object_Hierarchy.jpg)
 
 
 ---?code=code/grund&lang=vb
+@title[Objects Code]
 @[1-8](Struktur)
 @[9-16](Kode)
