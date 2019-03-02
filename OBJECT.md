@@ -12,7 +12,7 @@
 ---
 @title[Objects Syntax]
 
-@snap[west sidebar]
+@snap[north-west]
   Object Hierarchy
 @snapend
 
